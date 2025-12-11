@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "zh"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "ZTEOFF / The other site"
 title_separator          : "-"
