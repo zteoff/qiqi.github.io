@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "七七"
-  pronouns         : "He"  
+  pronouns         : # "He"  
   bio              : "Github.io Qiqi"
   location         : "Mars"
   employer         : "Home"
