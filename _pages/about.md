@@ -12,4 +12,4 @@ redirect_from:
 - [搜索引擎](https://cn.bing.com/)
 - [飞牛入口](http://10.10.10.100:5666/)
 
--![Editing a Markdown file for a talk](/images/profile.png)
+-![Markdown](https://zteoff.github.io/zteon/images/profile.png)
